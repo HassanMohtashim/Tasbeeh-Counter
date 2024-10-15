@@ -25,16 +25,17 @@
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splash_screen.png)
+<img src="screenshots/splash_screen.png" alt="Splash Screen" width="300"/>
 
 ### Tasbeeh e Zehra Counter Screen
-![Tasbeeh Zehra Counter](screenshots/tasbeeh_e_zehra_counter.png)
+<img src="screenshots/tasbeeh_e_zehra_counter.png" alt="Tasbeeh Zehra Counter" width="300"/>
 
 ### Unlimited Counter Screen
-![Unlimited Counter](screenshots/unlimited_counter.png)
+<img src="screenshots/unlimited_counter.png" alt="Unlimited Counter" width="300"/>
 
-### Unlimited Counter Screen
-![Unlimited Counter](screenshots/unlimited_counter_2.png)
+### Unlimited Counter Screen (Variation)
+<img src="screenshots/unlimited_counter_2.png" alt="Unlimited Counter 2" width="300"/>
+
 
 
 ## How to Use
@@ -48,4 +49,4 @@
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/Tasbeeh-Counter-App.git
+   git clone https://github.com/HassanMohtashim/Tasbeeh-Counter
