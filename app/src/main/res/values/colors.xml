@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#EAEAEA</color>
+    <color name="zeus">#201e19</color>
+    <color name="armadillo">#464139</color>
+    <color name="star_dust">#645533</color>
+    <color name="russet">#7e4a1c</color>
+</resources>

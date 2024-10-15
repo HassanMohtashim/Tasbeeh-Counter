@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasbeeh Counter</string>
+    <string name="unlimited_counter">Unlimited count</string>
+    <string name="tasbeeh_e_zehra_s">Tasbeeh Zehra(s)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zikr">اللهُ اكبَر</string>
+    <string name="reset">RESET</string>
+    <string name="selectZikr">ذکر منتخب کریں</string>
+    <string name="_0">0</string>
+    <string name="beep">BEEP :</string>
+</resources>
